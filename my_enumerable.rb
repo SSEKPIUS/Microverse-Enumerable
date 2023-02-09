@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Create MyEnumerable
 module MyEnumerable
   def all?
