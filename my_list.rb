@@ -1,5 +1,7 @@
-require_relative './my_enumerable'
+# frozen_string_literal: true
 
+require_relative './my_enumerable'
+# Create list
 class MyList
   include MyEnumerable
 
